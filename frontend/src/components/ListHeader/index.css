@@ -1,0 +1,19 @@
+.listHeaderContainer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.icon {
+  font-size: 16px;
+}
+
+.icon:hover {
+  cursor: pointer;
+}
+
+.listHeader {
+  margin-left: 5px;
+  font-weight: bold;
+  font-size: 16px;
+}

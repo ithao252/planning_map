@@ -1,0 +1,9 @@
+.loginCard {
+  box-shadow: 2px 5px 5px 0px #828282;
+  background: rgb(235, 212, 223);
+  background: linear-gradient(
+    143deg,
+    rgba(235, 212, 223, 1) 0%,
+    rgba(201, 216, 235, 1) 100%
+  );
+}

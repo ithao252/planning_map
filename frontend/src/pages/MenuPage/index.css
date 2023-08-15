@@ -1,0 +1,18 @@
+.menuBtnGroup {
+  justify-content: space-around;
+  display: flex;
+}
+
+.menuHeader {
+  text-align: center;
+}
+
+.menuBtn {
+  min-width: 30%;
+  width: auto;
+  margin-top: 5px;
+}
+
+.logoutIcon:hover {
+  cursor: pointer;
+}
